@@ -571,4 +571,3 @@ Las siguientes mejoras **no forman parte de la versión actual** del proyecto:
 ## 14. Autor
 
 - **Nombre del estudiante:** Daniel Esteban Rodriguez Suarez
-- **Curso:** ARSW
